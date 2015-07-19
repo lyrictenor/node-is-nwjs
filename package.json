@@ -29,7 +29,7 @@
     "node-webkit"
   ],
   "license": "MIT",
-  "repository": "pandawing/node-is-nwjs",
+  "repository": "lyrictenor/node-is-nwjs",
   "scripts": {
     "changelog": "touch changelog.md && conventional-changelog -i changelog.md --overwrite --preset angular",
     "david": "david update",
