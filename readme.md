@@ -2,7 +2,7 @@
 
 [![NPM version][npm-image]][npm-url] [![Travis-CI Status][travis-image]][travis-url] [![Appveyor Status][appveyor-image]][appveyor-url] [![Daviddm Status][daviddm-image]][daviddm-url]
 
-> My spectacular module
+> Check if your code is running on NW.js.
 
 
 ## Install
@@ -17,31 +17,14 @@ $ npm install --save is-nwjs
 ```js
 var isNwjs = require('is-nwjs');
 
-isNwjs('unicorns');
-//=> unicorns & rainbows
+// on your browser
+console.log(isNwjs);
+//=> false
+
+// on NW.js
+console.log(isNwjs);
+//=> true
 ```
-
-
-
-## API
-
-### isNwjs(input, [options])
-
-#### input
-
-*Required*  
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `boolean`  
-Default: `false`
-
-Lorem ipsum.
 
 
 ## Changelog
