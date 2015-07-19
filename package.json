@@ -36,6 +36,6 @@
     "fixpack": "fixpack",
     "git:tag": "git tag v${npm_package_version}",
     "lint": "npm run eclint && npm run eslint",
-    "verify": "npm run lint && npm run test"
+    "verify": "npm run lint"
   }
 }
