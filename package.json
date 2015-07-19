@@ -21,7 +21,8 @@
     "node": ">=0.10.0"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "is-nodejs.js"
   ],
   "keywords": [
     ""
