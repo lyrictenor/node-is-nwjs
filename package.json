@@ -25,7 +25,8 @@
     "is-nodejs.js"
   ],
   "keywords": [
-    "NW.js", "node-webkit"
+    "NW.js",
+    "node-webkit"
   ],
   "license": "MIT",
   "repository": "pandawing/node-is-nwjs",
