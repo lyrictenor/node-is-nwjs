@@ -1,10 +1,12 @@
 'use strict';
-module.exports = function (str, opts) {
-  if (typeof str !== 'string') {
-    throw new TypeError('Expected a string');
+var isNodejs = require('./is-nodejs');
+
+var isNwjs = false;
+if (isNodejs) {
+  try {
+    isNwjs = (typeof require('nw.gui') !== 'undefined');
+  } catch(e) {
+    isNwjs = false;
   }
-
-  opts = opts || {};
-
-  return str + ' & ' + (opts.postfix || 'rainbows');
-};
+}
+module.exports = isNwjs;
