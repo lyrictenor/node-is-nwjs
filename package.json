@@ -25,8 +25,16 @@
     "is-nodejs.js"
   ],
   "keywords": [
+    "NW",
     "NW.js",
-    "node-webkit"
+    "NWjs",
+    "check",
+    "node-webkit",
+    "nodewebkit",
+    "nw",
+    "nw.js",
+    "nw.js",
+    "nwjs"
   ],
   "license": "MIT",
   "repository": "lyrictenor/node-is-nwjs",
