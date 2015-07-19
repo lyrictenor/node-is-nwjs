@@ -1,3 +1,9 @@
+<a name="1.0.1"></a>
+## 1.0.1 (2015-07-19)
+
+* Transfer repository organization https://github.com/lyrictenor/node-is-nwjs
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2015-07-19)
 
