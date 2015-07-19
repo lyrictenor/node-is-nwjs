@@ -37,11 +37,11 @@ console.log(isNwjs);
 MIT © [sanemat](http://sane.jp)
 
 
-[travis-url]: https://travis-ci.org/pandawing/node-is-nwjs
-[travis-image]: https://img.shields.io/travis/pandawing/node-is-nwjs/master.svg?style=flat-square&label=travis
+[travis-url]: https://travis-ci.org/lyrictenor/node-is-nwjs
+[travis-image]: https://img.shields.io/travis/lyrictenor/node-is-nwjs/master.svg?style=flat-square&label=travis
 [appveyor-url]: https://ci.appveyor.com/project/sanemat/node-is-nwjs/branch/master
 [appveyor-image]: https://img.shields.io/appveyor/ci/sanemat/node-is-nwjs/master.svg?style=flat-square&label=appveyor
 [npm-url]: https://npmjs.org/package/is-nwjs
 [npm-image]: https://img.shields.io/npm/v/is-nwjs.svg?style=flat-square
-[daviddm-url]: https://david-dm.org/pandawing/node-is-nwjs
-[daviddm-image]: https://img.shields.io/david/pandawing/node-is-nwjs.svg?style=flat-square
+[daviddm-url]: https://david-dm.org/lyrictenor/node-is-nwjs
+[daviddm-image]: https://img.shields.io/david/lyrictenor/node-is-nwjs.svg?style=flat-square
